@@ -7,7 +7,7 @@ Exercício em Java sobre Interfaces, Inversão de controle e Injeção de depend
 
 <p align="center">
   <a href="#rocket-tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
