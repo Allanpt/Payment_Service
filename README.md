@@ -63,7 +63,7 @@ Parcelas:
 
 <img alt="Diagram" src=".github/entities-UML.JPG" width="100%">
 
-#### Diagrama Sevice UML
+#### Diagrama Service UML
 
 <img alt="Diagram" src=".github/service-UML.JPG" width="100%">
 
